@@ -15,10 +15,11 @@ Databases: PostgreSQL, MongoDB, FAISS, ChromaDB
 Mobile: Android SDK, MVVM, Retrofit, Jetpack, Firebase
 
 📂 Featured Projects
-🔹 1. RAG-based Chatbot (LangChain + Hugging Face + FAISS)
-Built a Retrieval-Augmented Generation chatbot capable of answering from custom documents.
 
+🔹 1. RAG-based Chatbot (LangChain + CohereLLM + FAISS)
+Built a Retrieval-Augmented Generation chatbot capable of answering from custom documents.
 Integrated vector search with FAISS.
+link : https://github.com/chinnuprashanth868-blip/rag-application
 
 Deployed using Streamlit for easy demo.
 👉 View Code | Demo

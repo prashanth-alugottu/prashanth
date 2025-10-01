@@ -38,3 +38,10 @@ Integrated into an Android app for real-world attendance use cases.
 
 🔹 4. Text Classification with Word2Vec + Logistic Regression
 Trained a spam classifier using word embeddings and ML.
+
+🔹 5. Computer Vision Experiments (TensorFlow)
+Applied convolution filters for edge detection (Sobel), blurring (box/Gaussian), and feature extraction (Laplacian, sharpen, etc.) on grayscale images.
+- Tech: TensorFlow, NumPy, Matplotlib, PIL
+- Highlights: Custom kernels, conv2d, multi-filter visualization
+👉 https://colab.research.google.com/drive/1-uHdj5KPfAHGvM0iD4H343PvgMykl6vU?usp=sharing
+

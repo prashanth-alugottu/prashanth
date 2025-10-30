@@ -1,4 +1,4 @@
-👋 Hi, I’m Prashanth Chinnu
+👋 Hi, I’m Prashanth
 💻 Android Developer (3.7 yrs) | 🤖 Generative AI & ML Engineer (in transition)
 I specialize in Android app development and I’m now building expertise in Generative AI, LLMs, and Machine Learning.
 This repo showcases my AI/ML projects, experiments, and production-ready prototypes.

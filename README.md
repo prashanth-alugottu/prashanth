@@ -22,7 +22,7 @@ Integrated vector search with FAISS.
 link : [click here](https://github.com/prashanth-alugottu/rag-application/tree/rag)
 
 Deployed using Streamlit for easy demo.
-👉 View Code | Demo : https://genragapplication.streamlit.app/
+👉 Demo : [click here](https://genragapplication.streamlit.app/)
 
 🔹 2. AI Agent for Task Automation
 Developed a LangChain Agent to handle multi-step tasks like summarization, document lookup, and Q&A.

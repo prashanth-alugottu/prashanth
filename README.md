@@ -16,13 +16,14 @@ Mobile: Android SDK, MVVM, Retrofit, Jetpack, Firebase
 
 📂 Featured Projects
 
-🔹 1. RAG-based Chatbot (LangChain + CohereLLM + FAISS)
-Built a Retrieval-Augmented Generation chatbot capable of answering from custom documents.
-Integrated vector search with FAISS.
-link : [click here](https://github.com/prashanth-alugottu/rag-application/tree/rag)
+🔹 1. GenAI Chatbot with Memory (LangGraph + Streamlit)
+  Context-aware chatbot using LangGraph InMemorySaver + Streamlit UI.
+  ✔ Persistent memory across turns
+  ✔ Agent architecture (create_agent)
+  ✔ Optimized with st.cache_resource
+  🔗 For Live Demo please click here: [click here](https://genfirstt.streamlit.app/#gen-ai-first-chatbot-app)
 
-Deployed using Streamlit for easy demo.
-👉 Demo : [click here](https://genragapplication.streamlit.app/)
+📌 Code: https://github.com/prashanth-alugottu/GenAIPractice/tree/GenAiPractice/DAY_12
 
 🔹 2. AI Agent for Task Automation
 Developed a LangChain Agent to handle multi-step tasks like summarization, document lookup, and Q&A.

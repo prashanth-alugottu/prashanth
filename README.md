@@ -56,7 +56,7 @@ Features:
 
 Tech: Gemini API, Streamlit, Python, PIL
 
-🔗 For Live Demo please [click here](https://image-generation-application.streamlit.app/)
+🔗 For Live Demo please [click here](https://image-generation-application.streamlit.app)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -74,4 +74,4 @@ Features
 ✔ PIL-based image handling
 ✔ Clean Streamlit interface
 
-🔗 For Live Demo please [click here](https://image-generation-application.streamlit.app/)
+🔗 For Live Demo please [click here](https://generate-image-caption-gemini.streamlit.app)

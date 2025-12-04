@@ -25,6 +25,8 @@ Context-aware chatbot using LangGraph InMemorySaver + Streamlit UI.
 
 🔗 For Live Demo please [click here](https://genfirstt.streamlit.app/#gen-ai-first-chatbot-app)
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🔹 2. Agentic RAG Chatbot (LangChain + ChromaDB + Streamlit)
 
 A lightweight RAG chatbot that lets users upload PDFs and ask questions directly from the content.

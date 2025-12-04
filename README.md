@@ -27,8 +27,6 @@ Context-aware chatbot using LangGraph InMemorySaver + Streamlit UI.
 
 🔗 For Live Demo please [click here](https://genfirstt.streamlit.app/#gen-ai-first-chatbot-app)
 
-📌 For source code please [click here](https://github.com/prashanth-alugottu/first_streamlit_app/blob/main/4_StreamlitApp.py)
-
 🔹 2. AI Agent for Task Automation
 Developed a LangChain Agent to handle multi-step tasks like summarization, document lookup, and Q&A.
 

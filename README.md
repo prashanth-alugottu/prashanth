@@ -6,7 +6,7 @@ This repo showcases my AI/ML projects, experiments, and production-ready prototy
 🚀 Tech Stack
 Programming: Python, Java, Kotlin
 
-ML/DL: Regression, ANN, CNN, Word2Vec, Embeddings
+ML/DL: Regression, ANN, CNN, Word2Vec, Embeddings, Transformers
 
 Generative AI: Hugging Face, LangChain, LangChain Agents, RAG Pipelines, Prompt Engineering
 
@@ -27,17 +27,6 @@ Deployed using Streamlit for easy demo.
 🔹 2. AI Agent for Task Automation
 Developed a LangChain Agent to handle multi-step tasks like summarization, document lookup, and Q&A.
 
-Combined multiple tools with LLM reasoning.
-👉 View Code
-
-🔹 3. Face Recognition-based Login & Attendance System
-Implemented ANN-based face embeddings for authentication.
-
-Integrated into an Android app for real-world attendance use cases.
-👉 View Code
-
-🔹 4. Text Classification with Word2Vec + Logistic Regression
-Trained a spam classifier using word embeddings and ML.
 
 🔹 5. Computer Vision Experiments (TensorFlow)
 Applied convolution filters for edge detection (Sobel), blurring (box/Gaussian), and feature extraction (Laplacian, sharpen, etc.) on grayscale images.

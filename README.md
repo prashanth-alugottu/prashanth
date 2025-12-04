@@ -17,21 +17,24 @@ Mobile: Android SDK, MVVM, Retrofit, Jetpack, Firebase
 📂 Featured Projects
 
 🔹 1. GenAI Chatbot with Memory (LangGraph + Streamlit)
-  Context-aware chatbot using LangGraph InMemorySaver + Streamlit UI.
-  ✔ Persistent memory across turns
-  ✔ Agent architecture (create_agent)
-  ✔ Optimized with st.cache_resource
-  🔗 For Live Demo please click here: [click here](https://genfirstt.streamlit.app/#gen-ai-first-chatbot-app)
+Context-aware chatbot using LangGraph InMemorySaver + Streamlit UI.
+
+✔ Persistent memory across turns
+
+✔ Agent architecture (create_agent)
+
+✔ Optimized with st.cache_resource
+
+🔗 For Live Demo please click here: [click here](https://genfirstt.streamlit.app/#gen-ai-first-chatbot-app)
 
 📌 Code: https://github.com/prashanth-alugottu/GenAIPractice/tree/GenAiPractice/DAY_12
 
 🔹 2. AI Agent for Task Automation
 Developed a LangChain Agent to handle multi-step tasks like summarization, document lookup, and Q&A.
 
-
 🔹 5. Computer Vision Experiments (TensorFlow)
 Applied convolution filters for edge detection (Sobel), blurring (box/Gaussian), and feature extraction (Laplacian, sharpen, etc.) on grayscale images.
+
 - Tech: TensorFlow, NumPy, Matplotlib, PIL
 - Highlights: Custom kernels, conv2d, multi-filter visualization
-👉 https://colab.research.google.com/drive/1-uHdj5KPfAHGvM0iD4H343PvgMykl6vU?usp=sharing
-
+  👉 https://colab.research.google.com/drive/1-uHdj5KPfAHGvM0iD4H343PvgMykl6vU?usp=sharing

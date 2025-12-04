@@ -18,9 +18,13 @@ Mobile: Android SDK, MVVM, Retrofit, Jetpack, Firebase
 
 🔹 1. GenAI Chatbot with Memory (LangGraph + Streamlit)
 Context-aware chatbot using LangGraph InMemorySaver + Streamlit UI.
+
 ✔ Persistent memory across turns
+
 ✔ Agent architecture (create_agent)
+
 ✔ Optimized with st.cache_resource
+
 🔗 For Live Demo please click here: [click here](https://genfirstt.streamlit.app/#gen-ai-first-chatbot-app)
 
 📌 Code: https://github.com/prashanth-alugottu/GenAIPractice/tree/GenAiPractice/DAY_12

@@ -25,7 +25,7 @@ Context-aware chatbot using LangGraph InMemorySaver + Streamlit UI.
 
 🔗 For Live Demo please [click here](https://genfirstt.streamlit.app/#gen-ai-first-chatbot-app)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔹 2. Agentic RAG Chatbot (LangChain + ChromaDB + Streamlit)
 
@@ -41,3 +41,37 @@ Features:
 Tech: Streamlit, LangChain, ChromaDB, OpenAI GPT, Python
 
 🔗 For Live Demo please [click here](https://agenticrag-application.streamlit.app)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔹 3. Gemini Multimodal Image Generator (Gemini API + Streamlit)
+
+A simple AI app that generates images + text descriptions from a single prompt using Google’s Gemini 2.0 Flash Image Generation model.
+
+Features:
+✔ Text + Image multimodal response
+✔ Real-time image rendering in Streamlit
+✔ Uses genai.Client() and GenerateContentConfig
+✔ Error-safe image decoding (PIL + BytesIO)
+
+Tech: Gemini API, Streamlit, Python, PIL
+
+🔗 For Live Demo please [click here](https://image-generation-application.streamlit.app/)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔹 4. Gemini Multimodal App – Image Captioning + YouTube Summarization
+
+A unified Streamlit application powered by Google Gemini 2.0 Flash that performs:
+
+🖼️ Image Caption Generator
+
+Upload an image → Gemini analyzes it → returns a natural-language caption.
+
+Features
+✔ Uses Gemini multimodal (contents=[text, image])
+✔ Real-time caption output
+✔ PIL-based image handling
+✔ Clean Streamlit interface
+
+🔗 For Live Demo please [click here](https://image-generation-application.streamlit.app/)

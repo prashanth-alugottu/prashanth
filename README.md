@@ -51,10 +51,6 @@ This profile showcases my **AI/ML apps, experiments, and production-ready GenAI 
 ---
 
 # ⭐ Project Showcase Grid  
-<p align="center">
-  <a href="#"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth-alugottu&repo=GenAI-Chatbot&theme=dark"/></a>
-  <a href="#"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth-alugottu&repo=RAG-Agent-App&theme=dark"/></a>
-</p>
 
 ### 🚀 **GenAI Chatbot with Memory (LangGraph + Streamlit)**  
 AI chatbot with persistent memory using LangGraph's InMemorySaver.  

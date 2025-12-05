@@ -50,7 +50,11 @@ This profile showcases my **AI/ML apps, experiments, and production-ready GenAI 
 
 ---
 
-# 📂 Featured Projects  
+# ⭐ Project Showcase Grid  
+<p align="center">
+  <a href="#"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth-alugottu&repo=GenAI-Chatbot&theme=dark"/></a>
+  <a href="#"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth-alugottu&repo=RAG-Agent-App&theme=dark"/></a>
+</p>
 
 ### 🚀 **GenAI Chatbot with Memory (LangGraph + Streamlit)**  
 AI chatbot with persistent memory using LangGraph's InMemorySaver.  
@@ -73,16 +77,6 @@ Generates AI images using Gemini Flash.
 ### 🧠 **Gemini Multimodal App – Image Captioning + YouTube Summaries**  
 Image captioning + YouTube transcript summarization.  
 🔗 **Live Demo:** https://generate-image-caption-gemini.streamlit.app
-
----
-
-# ⭐ Project Showcase Grid  
-<p align="center">
-  <a href="#"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth-alugottu&repo=GenAI-Chatbot&theme=dark"/></a>
-  <a href="#"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth-alugottu&repo=RAG-Agent-App&theme=dark"/></a>
-</p>
-
-> Replace repo names (`GenAI-Chatbot`, `RAG-Agent-App`) with your actual repo names.
 
 ---
 

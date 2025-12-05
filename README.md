@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Prashanth Alugottu  
+# 👋 Hi, I’m Prashanth Algottu  
 💻 **Android Developer (3.9 yrs)** | 🤖 **Generative AI & ML Engineer (Transitioning)**  
 
 I specialize in **Android app development** (Java/Kotlin, MVVM, Jetpack, Firebase)  

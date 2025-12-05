@@ -1,10 +1,15 @@
-# 👋 Hi, I’m Prashanth Algottu  
-💻 **Android Developer (3.9 yrs)** | 🤖 **Generative AI & ML Engineer (Transitioning)**  
+<!-- Typing SVG Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+I'm+Prashanth+Alugottu+👋;Android+Developer+%7C+GenAI+Engineer;Building+AI+Apps+%26+LLM+Agents;Welcome+to+my+GitHub+Profile!" />
+</p>
 
-I specialize in **Android app development** (Java/Kotlin, MVVM, Jetpack, Firebase)  
-and I’m now building strong expertise in **Generative AI, LLMs, RAG, LangChain, Transformers, and ML/DL**.  
+# 💫 About Me  
+💻 **Android Developer (3.9 yrs)** → 🤖 **Generative AI & ML Engineer (Transitioning)**  
 
-This profile showcases the AI/ML projects, experiments, and production-ready prototypes I am building as part of my GenAI transition.
+I specialize in **Android Development** (Java/Kotlin, MVVM, Jetpack)  
+and I’m now focusing on **LLMs, RAG, LangChain, Transformers, DL, and MLOps**.  
+
+This profile showcases my **AI/ML apps, experiments, and production-ready GenAI prototypes**.
 
 ---
 
@@ -15,13 +20,12 @@ This profile showcases the AI/ML projects, experiments, and production-ready pro
 ---
 
 # ⚙️ Tech Stack  
-
-### **Programming**
+### **Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### **Machine Learning / Deep Learning**
+### **AI / ML**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -29,7 +33,7 @@ This profile showcases the AI/ML projects, experiments, and production-ready pro
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### **Generative AI**
-- LLMs (GPT, Gemini, Llama)
+- LLM Apps (GPT, Gemini, Llama)  
 - LangChain, LangGraph, Agents  
 - RAG Pipelines  
 - Vector DBs: FAISS, ChromaDB  
@@ -40,44 +44,59 @@ This profile showcases the AI/ML projects, experiments, and production-ready pro
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Android**
-- MVVM, Retrofit, Jetpack Compose, Firebase  
-- Android SDK, Background Services  
+- MVVM, Retrofit, Jetpack Components  
+- Firebase, Room DB  
 - Custom Libraries (.aar), Device Management  
 
 ---
 
 # 📂 Featured Projects  
 
-## 🔹 1. **GenAI Chatbot with Memory (LangGraph + Streamlit)**  
-A context-aware chatbot using `LangGraph` with persistent memory.
-
-### ✔ Features  
-- InMemorySaver for memory  
-- Fast & optimized using `st.cache_resource`  
-- Clean chat UI  
-
-🔗 **Live Demo:** https://genfirstt.streamlit.app/#gen-ai-first-chatbot-app  
+### 🚀 **GenAI Chatbot with Memory (LangGraph + Streamlit)**  
+AI chatbot with persistent memory using LangGraph's InMemorySaver.  
+🔗 **Live Demo:** https://genfirstt.streamlit.app/#gen-ai-first-chatbot-app
 
 ---
 
-## 🔹 2. **Agentic RAG Chatbot (LangChain + ChromaDB + Streamlit)**  
-An intelligent PDF-based QA chatbot.
-
-### ✔ Features  
-- PDF upload → text extraction  
-- Embeddings + Vector DB (ChromaDB)  
-- Agent-based reasoning (LangChain Agent)  
-- Chat history + clean UI  
-
-🔗 **Live Demo:** https://agenticrag-application.streamlit.app  
+### 🤖 **Agentic RAG Chatbot (LangChain + ChromaDB + Streamlit)**  
+PDF-based QA chatbot with vector search and agents.  
+🔗 **Live Demo:** https://agenticrag-application.streamlit.app
 
 ---
 
-## 🔹 3. **Gemini Multimodal Image Generator (Gemini API + Streamlit)**  
+### 🖼️ **Gemini Multimodal Image Generator (Gemini API + Streamlit)**  
+Generates AI images using Gemini Flash.  
+🔗 **Live Demo:** https://image-generation-application.streamlit.app
 
-### ✔ Features  
-- Prompt → Image generation  
-- Gemini 2.0 Flash  
-- Real-time streamlit rendering  
+---
 
-🔗 **Live Demo:** https://image-genera
+### 🧠 **Gemini Multimodal App – Image Captioning + YouTube Summaries**  
+Image captioning + YouTube transcript summarization.  
+🔗 **Live Demo:** https://generate-image-caption-gemini.streamlit.app
+
+---
+
+# ⭐ Project Showcase Grid  
+<p align="center">
+  <a href="#"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth-alugottu&repo=GenAI-Chatbot&theme=dark"/></a>
+  <a href="#"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth-alugottu&repo=RAG-Agent-App&theme=dark"/></a>
+</p>
+
+> Replace repo names (`GenAI-Chatbot`, `RAG-Agent-App`) with your actual repo names.
+
+---
+
+# 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=prashanth-alugottu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=prashanth-alugottu&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth-alugottu&theme=dark&hide_border=false&layout=compact)
+
+---
+
+# 👀 Profile Views  
+[![](https://visitcount.itsvg.in/api?id=prashanth-alugottu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+# 🙌 Thanks for Visiting!  
+✨ _Feel free to explore my repos, fork projects, or reach out for collaboration!_  

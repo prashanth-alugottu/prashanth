@@ -1,82 +1,114 @@
 <!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+I'm+Prashanth+Alugottu+👋;Android+Developer+%7C+GenAI+Engineer;Building+AI+Apps+%26+LLM+Agents;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Prashanth+Alugottu+👋;LLM+%2F+Generative+AI+Application+Engineer;Building+RAG+Pipelines+%26+Agentic+AI+Systems;Engineering+Production-Ready+GenAI+Solutions" />
 </p>
 
+---
+
 # 💫 About Me  
-💻 **Android Developer (3.9 yrs)** → 🤖 **Generative AI & ML Engineer (Transitioning)**  
 
-I specialize in **Android Development** (Java/Kotlin, MVVM, Jetpack)  
-and I’m now focusing on **LLMs, RAG, LangChain, Transformers, DL, and MLOps**.  
+💻 **LLM / Generative AI Application Engineer**  
+🧠 **System-oriented engineer | Backend-first GenAI builder**
 
-This profile showcases my **AI/ML apps, experiments, and production-ready GenAI prototypes**.
+I am a **system-driven software engineer** with **3.9+ years of professional experience** in Android development, now focused on **engineering production-ready Generative AI and LLM applications**.
+
+My strength lies in **deeply understanding how AI systems work** — from **Transformers and embeddings** to **RAG pipelines and Agentic AI architectures** — and translating them into **clean, modular, API-driven solutions**.
+
+This GitHub showcases:
+- ✅ **LLM application architectures**
+- ✅ **Agentic AI systems (Supervisor, Multi-Agent)**
+- ✅ **RAG pipelines with vector databases**
+- ✅ **End-to-end GenAI apps, not just demos**
 
 ---
 
 # 🌐 Connect with Me  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-genai/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chinnuprashanth868@gmail.com)
 
 ---
 
 # ⚙️ Tech Stack  
-### **Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### **AI / ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+## 🧠 Generative AI & LLMs
+- Transformers (GPT, BERT, BART)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI (Supervisor & Multi-Agent Systems)
+- Prompt Engineering & System Prompts
 
-### **Generative AI**
-- LLM Apps (GPT, Gemini, Llama)  
-- LangChain, LangGraph, Agents  
-- RAG Pipelines  
-- Vector DBs: FAISS, ChromaDB  
+## 🧩 Backend & AI Engineering
+- Python
+- FastAPI, REST APIs
+- LangChain, LangGraph
+- Vector Databases: FAISS, ChromaDB
 
-### **Databases**
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🤖 Machine Learning & Deep Learning
+- Neural Networks
+- GANs, VAEs, Diffusion Models
+- NLP pipelines & embeddings
 
-### **Android**
-- MVVM, Retrofit, Jetpack Components  
-- Firebase, Room DB  
-- Custom Libraries (.aar), Device Management  
+## 🛠 Engineering & Tooling
+- Git, Docker (basics)
+- Modular OOP design
+- Version pinning & deployment awareness
+
+## 📱 Mobile Engineering (Previous Core Experience)
+- Android (Java, Kotlin)
+- MVVM, Jetpack Components
+- Kiosk Mode & Enterprise Device Management
+- Custom Android libraries (.aar) & Flutter modules
 
 ---
 
-# ⭐ Project Showcase Grid  
+# ⭐ Project Showcase  
 
-### 🚀 **GenAI Chatbot with Memory (LangGraph + Streamlit)**  
-AI chatbot with persistent memory using LangGraph's InMemorySaver.  
+### 🚀 **GenAI Chatbot with Memory**
+**LangGraph + Streamlit**
+
+- Built a conversational AI system with **persistent memory**
+- Implemented structured state management using LangGraph
+- Designed for clarity, extensibility, and real-world usage  
+
 🔗 **Live Demo:** https://genfirstt.streamlit.app/#gen-ai-first-chatbot-app
 
 ---
 
-### 🤖 **Agentic RAG Chatbot (LangChain + ChromaDB + Streamlit)**  
-PDF-based QA chatbot with vector search and agents.  
+### 🤖 **Agentic RAG Chatbot**
+**LangChain + ChromaDB + Streamlit**
+
+- Designed an **agent-based RAG architecture**
+- Implemented document ingestion, vector search, and reasoning flow
+- Focused on modular design and scalable retrieval  
+
 🔗 **Live Demo:** https://agenticrag-application.streamlit.app
 
 ---
 
-### 🖼️ **Gemini Multimodal Image Generator (Gemini API + Streamlit)**  
-Generates AI images using Gemini Flash.  
+### 🖼️ **Multimodal Image Generator**
+**Gemini API + Streamlit**
+
+- Built a multimodal GenAI application for image generation
+- Integrated user prompts with Gemini Flash
+- Focused on end-to-end GenAI workflow  
+
 🔗 **Live Demo:** https://image-generation-application.streamlit.app
 
 ---
 
-### 🧠 **Gemini Multimodal App – Image Captioning + YouTube Summaries**  
-Image captioning + YouTube transcript summarization.  
+### 🧠 **Multimodal AI App – Image Captioning & YouTube Summaries**
+**Gemini API + Streamlit**
+
+- Implemented image captioning using multimodal LLMs
+- Added YouTube transcript summarization pipeline
+- Designed as a unified multimodal AI experience  
+
 🔗 **Live Demo:** https://generate-image-caption-gemini.streamlit.app
 
 ---
 
 # 📊 GitHub Stats  
+
 ![](https://github-readme-stats.vercel.app/api?username=prashanth-alugottu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=prashanth-alugottu&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth-alugottu&theme=dark&hide_border=false&layout=compact)
@@ -84,9 +116,11 @@ Image captioning + YouTube transcript summarization.
 ---
 
 # 👀 Profile Views  
+
 [![](https://visitcount.itsvg.in/api?id=prashanth-alugottu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
 # 🙌 Thanks for Visiting!  
-✨ _Feel free to explore my repos, fork projects, or reach out for collaboration!_  
+
+✨ _Feel free to explore my repositories, fork projects, or reach out for collaboration on LLM, RAG, or Agentic AI systems._

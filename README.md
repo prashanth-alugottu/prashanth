@@ -1,10 +1,3 @@
-<!-- Typing SVG Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Prashanth+Alugottu+👋;LLM+%2F+Generative+AI+Application+Engineer;Building+RAG+Pipelines+%26+Agentic+AI+Systems;Engineering+Production-Ready+GenAI+Solutions" />
-</p>
-
----
-
 # 💫 About Me  
 
 💻 **LLM / Generative AI Application Engineer**  

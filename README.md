@@ -3,9 +3,12 @@
 💻 **LLM / Generative AI Application Engineer**  
 🧠 **System-oriented engineer | Backend-first GenAI builder**
 
-I am a **system-driven software engineer** with **3.9+ years of professional experience** in Android development, now focused on **engineering production-ready Generative AI and LLM applications**.
-
-My strength lies in **deeply understanding how AI systems work** — from **Transformers and embeddings** to **RAG pipelines and Agentic AI architectures** — and translating them into **clean, modular, API-driven solutions**.
+LLM Application Engineer with 3.9+ years of software engineering experience and
+hands-on expertise in building production-style GenAI systems. Strong experience
+in designing Retrieval-Augmented Generation (RAG) pipelines, agentic workflows,
+and LLM-powered internal tools with focus on reliability, modular design, and
+hallucination mitigation. Previously an Android engineer delivering enterprise-grade
+applications, now specialised in backend-driven GenAI systems.
 
 This GitHub showcases:
 - ✅ **LLM application architectures**

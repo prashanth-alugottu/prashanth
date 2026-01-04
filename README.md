@@ -54,51 +54,20 @@ This GitHub showcases:
 
 ---
 
-# ⭐ Project Showcase  
+# ⭐ Project Showcase
 
-### 🚀 **GenAI Chatbot with Memory**
-**LangGraph + Streamlit**
+### 🧠 GenAI Engineer — Internal Platform / R&D  
+📅 Feb 2025 – Nov 2025
 
-- Built a conversational AI system with **persistent memory**
-- Implemented structured state management using LangGraph
-- Designed for clarity, extensibility, and real-world usage  
+- Contributed to the design and development of an **internal GenAI platform** focused on document intelligence and enterprise automation.
+- Architected **agentic RAG systems** using LangGraph, enabling multi-step reasoning, controlled execution, and shared state across agents.
+- Implemented retrieval optimization techniques and relevance filtering to **reduce hallucinations and improve answer faithfulness**.
+- Built **Streamlit-based internal tools** to rapidly validate GenAI pipelines, agent workflows, and user interactions.
+- Focused on **production-style GenAI engineering** including modular design, observability, and iteration-driven improvement.
 
-🔗 **Live Demo:** https://genfirstt.streamlit.app/#gen-ai-first-chatbot-app
+🔗 **Demo:** [Click here for demo](https://agenticrag-application.streamlit.app/)
 
----
 
-### 🤖 **Agentic RAG Chatbot**
-**LangChain + ChromaDB + Streamlit**
-
-- Designed an **agent-based RAG architecture**
-- Implemented document ingestion, vector search, and reasoning flow
-- Focused on modular design and scalable retrieval  
-
-🔗 **Live Demo:** https://agenticrag-application.streamlit.app
-
----
-
-### 🖼️ **Multimodal Image Generator**
-**Gemini API + Streamlit**
-
-- Built a multimodal GenAI application for image generation
-- Integrated user prompts with Gemini Flash
-- Focused on end-to-end GenAI workflow  
-
-🔗 **Live Demo:** https://image-generation-application.streamlit.app
-
----
-
-### 🧠 **Multimodal AI App – Image Captioning & YouTube Summaries**
-**Gemini API + Streamlit**
-
-- Implemented image captioning using multimodal LLMs
-- Added YouTube transcript summarization pipeline
-- Designed as a unified multimodal AI experience  
-
-🔗 **Live Demo:** https://generate-image-caption-gemini.streamlit.app
-
----
 
 # 📊 GitHub Stats  
 

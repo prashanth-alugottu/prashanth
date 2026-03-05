@@ -55,11 +55,13 @@ This GitHub showcases:
 ![MLflow](https://img.shields.io/badge/MLflow-Experiment_Tracking-blue)
 
 ### Cloud & Deployment
+![CI/CD](https://img.shields.io/badge/CI/CD-Pipelines-blue)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/AWS-EC2-orange)
 ![S3](https://img.shields.io/badge/AWS-S3-yellow)
 ![ECS](https://img.shields.io/badge/AWS-ECS-red)
+
 
 ---
 

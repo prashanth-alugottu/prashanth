@@ -1,78 +1,115 @@
 # 💫 About Me  
 
-💻 **LLM / Generative AI Application Engineer**  
-🧠 **System-oriented engineer | Backend-first GenAI builder**
+💻 **GenAI Engineer | LLM & RAG Systems Builder**  
+🧠 **Backend-focused AI Engineer building production-grade AI systems**
 
-LLM Application Engineer with 3.9+ years of software engineering experience and
-hands-on expertise in building production-style GenAI systems. Strong experience
-in designing Retrieval-Augmented Generation (RAG) pipelines, agentic workflows,
-and LLM-powered internal tools with focus on reliability, modular design, and
-hallucination mitigation. Previously an Android engineer delivering enterprise-grade
-applications, now specialised in backend-driven GenAI systems.
+I’m a **Generative AI Engineer with ~4 years of software engineering experience**, specializing in **LLM applications, Retrieval-Augmented Generation (RAG), and AI-powered enterprise systems**.
+
+My work focuses on designing **reliable, source-grounded AI systems** that can operate in real production environments. I build **LLM-powered tools, RAG pipelines, and agentic workflows** with strong emphasis on:
+
+- Reducing **LLM hallucinations**
+- Improving **retrieval accuracy**
+- Designing **modular and scalable AI architectures**
+- Building **production-ready backend systems**
+
+Before moving into GenAI, I worked as an **Android engineer building enterprise mobility systems**, giving me strong experience in **production engineering and scalable system design**.
 
 This GitHub showcases:
-- ✅ **LLM application architectures**
-- ✅ **Agentic AI systems (Supervisor, Multi-Agent)**
-- ✅ **RAG pipelines with vector databases**
-- ✅ **End-to-end GenAI apps, not just demos**
+
+✅ **LLM application architectures**  
+✅ **RAG pipelines & retrieval optimization**  
+✅ **Agentic AI systems (LangGraph)**  
+✅ **End-to-end GenAI applications**
 
 ---
 
-# 🌐 Connect with Me  
+# 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-gen)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chinnuprashanth868@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:algottuprashanth@gmail.com)
 
+---
 
-## 🧠 Generative AI & LLMs
-- Transformers (GPT, BERT, BART)
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI (Supervisor & Multi-Agent Systems)
-- Prompt Engineering & System Prompts
+# 🚀 Tech Stack
 
-## 🧩 Backend & AI Engineering
-- Python
-- FastAPI, REST APIs
-- LangChain, LangGraph
-- Vector Databases: FAISS, ChromaDB
+### Generative AI / LLM Systems
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-blue)
+![LangSmith](https://img.shields.io/badge/LangSmith-Evaluation-orange)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-purple)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-green)
 
-## 🤖 Machine Learning & Deep Learning
-- Neural Networks
-- GANs, VAEs, Diffusion Models
-- NLP pipelines & embeddings
+### Backend & APIs
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/API-REST-blue)
 
-## 🛠 Engineering & Tooling
-- Git, Docker (basics)
-- Modular OOP design
-- Version pinning & deployment awareness
+### Vector Databases
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-blue)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-purple)
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector_DB-green)
 
-## 📱 Mobile Engineering (Previous Core Experience)
-- Android (Java, Kotlin)
-- MVVM, Jetpack Components
-- Kiosk Mode & Enterprise Device Management
-- Custom Android libraries (.aar) & Flutter modules
+### Evaluation & Experimentation
+![RAGAS](https://img.shields.io/badge/RAGAS-RAG_Evaluation-orange)
+![MLflow](https://img.shields.io/badge/MLflow-Experiment_Tracking-blue)
+
+### Cloud & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/AWS-EC2-orange)
+![S3](https://img.shields.io/badge/AWS-S3-yellow)
+![ECS](https://img.shields.io/badge/AWS-ECS-red)
 
 ---
 
 # ⭐ Project Showcase
 
-### 🧠 GenAI Engineer — Internal Platform / R&D  
-📅 Feb 2025 – Nov 2025
+## 🧠 Enterprise GenAI RAG Support Chatbot
 
-- Contributed to the design and development of an **internal GenAI platform** focused on document intelligence and enterprise automation.
-- Architected **agentic RAG systems** using LangGraph, enabling multi-step reasoning, controlled execution, and shared state across agents.
-- Implemented retrieval optimization techniques and relevance filtering to **reduce hallucinations and improve answer faithfulness**.
-- Built **Streamlit-based internal tools** to rapidly validate GenAI pipelines, agent workflows, and user interactions.
-- Focused on **production-style GenAI engineering** including modular design, observability, and iteration-driven improvement.
+Production-style **GenAI support assistant for Enterprise Mobility Management (EMM) platforms** that retrieves information from internal documentation, policies, and troubleshooting guides to generate **source-grounded answers** for IT teams.
 
-🔗 **Demo:** [Click here for demo](https://agenticrag-application.streamlit.app/)
+### Key Capabilities
 
+- Retrieval-Augmented Generation pipelines
+- Document ingestion & chunking strategies
+- Embedding-based retrieval
+- Hallucination mitigation techniques
+- Source-grounded response generation
+- Scalable API-based backend services
 
+### Tech Used
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?logo=chainlink&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-blue)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+
+---
+
+# 📱 Previous Experience — Android Engineering
+
+Before moving into AI systems, I built **enterprise Android applications** for **device management, kiosk lockdown, and enterprise device control**.
+
+### Technologies Used
+
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![MVVM](https://img.shields.io/badge/Architecture-MVVM-blue)
+![Jetpack](https://img.shields.io/badge/Android-Jetpack-green)
+
+---
 
 # 📊 GitHub Stats  
 
 ![](https://github-readme-stats.vercel.app/api?username=prashanth-alugottu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+
 ![](https://nirzak-streak-stats.vercel.app/?user=prashanth-alugottu&theme=dark&hide_border=false)  
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth-alugottu&theme=dark&hide_border=false&layout=compact)
 
 ---
@@ -83,6 +120,17 @@ This GitHub showcases:
 
 ---
 
-# 🙌 Thanks for Visiting!  
+# 🙌 Thanks for Visiting  
 
-✨ _Feel free to explore my repositories, fork projects, or reach out for collaboration on LLM, RAG, or Agentic AI systems._
+If you're interested in:
+
+- LLM applications  
+- RAG systems  
+- Agentic AI systems  
+- AI infrastructure  
+
+Feel free to **explore my repositories or connect with me**.
+
+---
+
+💡 *Always learning, always building.*
